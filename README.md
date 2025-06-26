@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# NTRU-OQXT_Test
+# NTRU-OQXT
 
 The following packages (development versions) must be installed with global linkage.
 
@@ -12,6 +11,7 @@ The following packages (development versions) must be installed with global link
 [CryptoPP] libcrypto++-dev v5.6.4, libcrypto++-utils v5.6.4, libcrypto++6 v5.6.4
 
 [Falcon] To leverage efficient implemntations of lattice-based tradoors from Falcon, the Falcon reference implementation must be installed from https://falcon-sign.info/
-=======
-# NTRU-OQXT
->>>>>>> a2714f444bcb270084d3128a1af6a818496e5148
+
+
+
+
