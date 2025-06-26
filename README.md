@@ -1,4 +1,4 @@
-# NTRU-OQXT_Test
+# NTRU-OQXT
 
 The following packages (development versions) must be installed with global linkage.
 
