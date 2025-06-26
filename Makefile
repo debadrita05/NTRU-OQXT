@@ -2,7 +2,7 @@ CC = g++
 LD = g++
 
 # Compilation flags
-CFLAGS = -I. -I./blake3/ -O3 -std=c++17 -msse2 -msse -mssse3 -march=native -ffast-math -mavx2 -mfma -maes -fpermissive -fopenmp
+CFLAGS = -I. -I./blake3/ -w -O3 -std=c++17 -msse2 -msse -mssse3 -march=native -ffast-math -mavx2 -mfma -maes -fpermissive -fopenmp
 
 # Linker flags
 LDFLAGS = -lcryptopp -lpthread -lgmpxx -lssl -lhiredis -lredis++ -lcrypto -lntl -lgmp -lm -lrt \

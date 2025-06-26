@@ -576,7 +576,7 @@ static inline uint32_t
 mq_conv_small(int x)
 {
 	/*
-	 * If x < 0, the cast to uint32_t will set the high bit to 1.
+	 /* If x < 0, the cast to uint32_t will set the high bit to 1.
 	 */
 	uint32_t y;
 
@@ -1993,7 +1993,7 @@ int EDB_Search(unsigned char *query_str, int NWords)
 
             BloomFilter_Match_N(BF, bf_n_indices, NWords, &idx_in_set);
 
-			cout << idx_in_set << endl;
+			//cout << idx_in_set << endl;
 
 
             if(idx_in_set){
