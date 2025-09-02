@@ -1,5 +1,8 @@
 # NTRU-OQXT
+This repository represents a prototype implementation of the highly efficient post-quantum secure conjunctive SSE scheme from _"Highly Scalable Searchable Symmetric Encryption for Boolean Queries from NTRU Lattice Trapdoors", Debadrita Talapatra, Indian Institute of Technology Kharagpur, Sikhar Patranabis, IBM Research India, and Debdeep Mukhopadhyay, Indian Institute of Technology Kharagpur_ published by the IACR in CIC 2025.
 
+
+# Dependencies
 The following packages (development versions) must be installed with global linkage.
 
 [Redis] redis v5:4.0.9, redis-server v5:4.0.9, redis-tools v5:4.0.9, libhiredis-dev v0.13.3-2.2
