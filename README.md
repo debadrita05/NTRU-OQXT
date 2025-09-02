@@ -1,5 +1,5 @@
 # NTRU-OQXT
-This repository represents a prototype implementation of the highly efficient post-quantum secure conjunctive SSE scheme from the [paper]([url](https://eprint.iacr.org/2025/1215)) _"Highly Scalable Searchable Symmetric Encryption for Boolean Queries from NTRU Lattice Trapdoors", Debadrita Talapatra, Indian Institute of Technology Kharagpur, Sikhar Patranabis, IBM Research India, and Debdeep Mukhopadhyay, Indian Institute of Technology Kharagpur_ published by the IACR in CIC 2025.
+This repository represents a prototype implementation of the highly efficient post-quantum secure conjunctive SSE scheme from the paper _"Highly Scalable Searchable Symmetric Encryption for Boolean Queries from NTRU Lattice Trapdoors", Debadrita Talapatra, Indian Institute of Technology Kharagpur, Sikhar Patranabis, IBM Research India, and Debdeep Mukhopadhyay, Indian Institute of Technology Kharagpur_ published by the IACR in CIC 2025, https://eprint.iacr.org/2025/1215.
 
 
 # Dependencies
